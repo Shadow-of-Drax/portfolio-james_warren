@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-james_warren/static/css/main.9699dec0.css",
+    "main.js": "/portfolio-james_warren/static/js/main.9d21408d.js",
+    "static/js/453.acca0757.chunk.js": "/portfolio-james_warren/static/js/453.acca0757.chunk.js",
+    "index.html": "/portfolio-james_warren/index.html",
+    "main.9699dec0.css.map": "/portfolio-james_warren/static/css/main.9699dec0.css.map",
+    "main.9d21408d.js.map": "/portfolio-james_warren/static/js/main.9d21408d.js.map",
+    "453.acca0757.chunk.js.map": "/portfolio-james_warren/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9699dec0.css",
+    "static/js/main.9d21408d.js"
+  ]
+}
