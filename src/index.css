@@ -11,7 +11,7 @@ body {
   border: 0;
   /* Remove the vertical-align property */
   display: block;
-  background-image: url("./media/background-1.jpg");
+  background-image: url("./components/media/background-1.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
 }

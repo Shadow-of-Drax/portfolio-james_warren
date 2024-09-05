@@ -7,7 +7,7 @@ import ProjectCardContainer from './components/ProjectCardContainer/ProjectCardC
 import Skills from './components/Skills/Skills.js'
 import Footer from './components/Footer/Footer.js'
 
-import Background from './media/background-1.jpg';
+import Background from './components/media/background-1.jpg';
 
 
 

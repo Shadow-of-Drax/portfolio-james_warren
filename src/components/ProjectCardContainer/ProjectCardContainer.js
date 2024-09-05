@@ -2,9 +2,9 @@ import React from 'react'
 import './ProjectCardContainer.css'
 import ProjectCardL from '../ProjectCardL/ProjectCardL.js';
 import ProjectCardR from '../ProjectCardR/ProjectCardR.js';
-import GitHubIcon from '../../media/github-logo.png';
-import Cannon from '../../media/Cannon.jpeg';
-import Battleshippreview from '../../media/Battleshippreview.png';
+import GitHubIcon from '../../components/media/github-logo.png';
+import Cannon from '../../components/media/Cannon.jpeg';
+import Battleshippreview from '../../components/media/Battleshippreview.png';
 
 
 const ProjectCardContainer = (props) => {
