@@ -3,7 +3,7 @@ import "./Picture.css";
 
 const picture = (props) => {
   return (
-    <div className="header">
+    <div className="Picture">
       <h1>
         <a>James Warren</a>
       </h1>
