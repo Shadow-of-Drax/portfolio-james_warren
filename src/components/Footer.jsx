@@ -1,10 +1,10 @@
 import React from 'react'
 import './Footer.css'
 
-import GitHub from '../../media/github-logo.png';
-import LinkedIn from '../../media/linkedin.png';
-import Email from '../../media/email.png';
-import Resume from '../../media/writing.png';
+import GitHub from '../media/github-logo.png';
+import LinkedIn from '../media/linkedin.png';
+import Email from '../media/email.png';
+import Resume from '../media/writing.png';
 
 const footer = (props) => {
   return (
