@@ -6,15 +6,15 @@ import ProjectCardR from '../ProjectCardR/ProjectCardR.js';
 
 import GitHubIcon from '../../media/github-logo.png';
 import Cannon from '../../media/Cannon.jpeg';
-import Battleship preview from '../../media/Battleship preview.png';
-import Ricdal Revolver from '../../media/Ricdal Revolver.png';
+import BattleshipPreview from '../../media/Battleship preview.png';
+import RicdalRevolver from '../../media/Ricdal Revolver.png';
 
 const projectCardContainer = (props) => {
   return(
     <div className="cardContainer">
       <ProjectCardL
         projectLink='https://github.com/Shadow-of-Drax/Portfolio/tree/main/Battleship'
-        projectImage={Battleship preview}
+        projectImage={BattleshipPreview}
         title='Battleship'
         techUsed='html'
         description='Simple Battleship game created using HTML.'
@@ -34,7 +34,7 @@ const projectCardContainer = (props) => {
       />
       <ProjectCardL
         projectLink='https://github.com/Shadow-of-Drax/Portfolio/tree/main/mini-netflix'
-        projectImage={Ricdal Revolver}
+        projectImage={RicdalRevolver}
         title='Mini Netflix'
         techUsed='React.js, HTML, CSS, JavaScript'
         description='Netflix clone created using React.js, HTML, CSS, and JavaScript.'
