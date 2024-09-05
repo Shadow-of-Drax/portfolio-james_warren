@@ -17,8 +17,11 @@ const Portfolio = () => {
                     <p>Short description of the project.</p>
                 </div>
                 <div className="portfolio-item">
-                src={`${process.env.PUBLIC_URL}/media/Battleship_preview.PNG`}
-                alt="Battleship Preview"
+                    <img
+                        src={`${process.env.PUBLIC_URL}/media/Battleship_preview.PNG`}
+                        alt="Battleship Preview"
+                        className="portfolio-image"
+                    />
                     <h3>Battleship</h3>
                     <p>A html, one sided, single player battleship game.</p>
                 </div>
