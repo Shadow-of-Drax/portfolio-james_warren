@@ -1,15 +1,14 @@
 import React from 'react'
 import './ProjectCardContainer.css'
-
 import ProjectCardL from '../ProjectCardL/ProjectCardL.js';
 import ProjectCardR from '../ProjectCardR/ProjectCardR.js';
-
 import GitHubIcon from '../../media/github-logo.png';
 import Cannon from '../../media/Cannon.jpeg';
 import Battleshippreview from '../../media/Battleshippreview.png';
 import Ricdalrevolver from '../../media/Ricdalrevolver.png';
 
-const projectCardContainer = (props) => {
+
+const ProjectCardContainer = (props) => {
   return(
     <div className="cardContainer">
       <ProjectCardL
@@ -47,4 +46,4 @@ const projectCardContainer = (props) => {
   )
 }
 
-export default projectCardContainer;
+export default ProjectCardContainer;
