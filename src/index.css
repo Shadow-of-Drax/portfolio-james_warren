@@ -9,7 +9,7 @@ body {
   margin: 0;
   padding: 0;
   border: 0;
-  vertical-align: baseline;
+  /* Remove the vertical-align property */
   display: block;
   background-image: url("./media/background-1.jpg");
   background-repeat: no-repeat;
