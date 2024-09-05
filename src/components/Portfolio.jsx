@@ -17,9 +17,9 @@ const Portfolio = () => {
                     <p>Short description of the project.</p>
                 </div>
                 <div className="portfolio-item">
-                    <img src="project3.jpg" alt="Project 3" />
+                    <img src="C:\Users\James\OneDrive\Desktop\Portfolio\portfolio-james_warren\public\media\Battleship preview.PNG" alt="Project 3" />
                     <h3>Battleship</h3>
-                    <p>A one sided single player battleship game.</p>
+                    <p>A html, one sided, single player battleship game.</p>
                 </div>
             </div>
         </section>
