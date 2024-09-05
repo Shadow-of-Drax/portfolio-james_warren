@@ -7,7 +7,7 @@ import ProjectCardContainer from './components/ProjectCardContainer/ProjectCardC
 import Skills from './components/Skills/Skills.js'
 import Footer from './components/Footer/Footer.js'
 
-import Background from './media/background-1.jpg';
+import background from './media/background-1.jpg';
 
 
 
@@ -20,7 +20,7 @@ class App extends Component{
       <Landing
       title='James Warren'
       content='Full Stack Developer'
-      image = {Background}
+      image = {background}
       />
       <Jumbotron
         title='About Me'
