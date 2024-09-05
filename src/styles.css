@@ -57,6 +57,7 @@ body {
   text-align: center;
   color: #fff;
   padding: 0 20px;
+  background-attachment: fixed;
 }
 
 .hero-content h1 {
