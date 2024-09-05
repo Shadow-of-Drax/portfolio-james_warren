@@ -5,7 +5,6 @@ import ProjectCardR from '../ProjectCardR/ProjectCardR.js';
 import GitHubIcon from '../../media/github-logo.png';
 import Cannon from '../../media/Cannon.jpeg';
 import Battleshippreview from '../../media/Battleshippreview.png';
-import Ricdalrevolver from '../../media/Ricdalrevolver.png';
 
 
 const ProjectCardContainer = (props) => {
@@ -33,7 +32,7 @@ const ProjectCardContainer = (props) => {
       />
       <ProjectCardL
         projectLink='https://github.com/Shadow-of-Drax/Portfolio/tree/main/mini-netflix'
-        projectImage={Ricdalrevolver}
+        projectImage={Cannon}
         title='Mini Netflix'
         techUsed='React.js, HTML, CSS, JavaScript'
         description='Netflix clone created using React.js, HTML, CSS, and JavaScript.'
