@@ -4,7 +4,6 @@ import './Footer.css'
 import GitHub from '../media/github-logo.png';
 import LinkedIn from '../media/linkedin.png';
 import Email from '../media/email.png';
-import Resume from '../media/writing.png';
 
 const footer = (props) => {
   return (
@@ -22,11 +21,6 @@ const footer = (props) => {
       <div className='box'>
         <a href = "mailto: james.r.warren83@gmail.com">
           <img src = {Email} />
-        </a>
-      </div>
-      <div className='box'>
-        <a href = '' target='_blank'>
-          <img src = {Resume} />
         </a>
       </div>
     </footer>
