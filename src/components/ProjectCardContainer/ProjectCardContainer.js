@@ -5,7 +5,7 @@ import ProjectCardR from "../ProjectCardR/ProjectCardR.js";
 import GitHubIcon from "../../components/media/github-logo.png";
 import Cannon from "../../components/media/Cannon.jpeg";
 import Battleshippreview from "../../components/media/Battleshippreview.png";
-import Ninja from "../../components/media/Ninja.png";
+import Ninja from "../../components/media/ninja.png";
 
 const ProjectCardContainer = (props) => {
   return (
