@@ -16,6 +16,7 @@
   order: 1;
   padding: 1.5em 3em 0.2em 3em;
   max-width: 48em;
+  justify-content: flex-end;
 }
 
 .gitHubIcon {
