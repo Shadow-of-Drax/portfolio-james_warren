@@ -5,7 +5,7 @@ import Jumbotron from "./components/Jumbotron/Jumbotron.js";
 import ProjectCardContainer from "./components/ProjectCardContainer/ProjectCardContainer.js";
 import Skills from "./components/Skills/Skills.js";
 import Footer from "./components/Footer/Footer.js";
-import Picture from "./components/media/James.jpg";
+import Picture from "./components/Picture/Picture.js";
 import Background from "./components/media/background-1.jpg";
 
 class App extends Component {
