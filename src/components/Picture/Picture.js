@@ -4,9 +4,7 @@ import "./Picture.css";
 const picture = (props) => {
   return (
     <div className="Picture">
-      <h1>
-        <a>James Warren</a>
-      </h1>
+      <img src={props.image} alt={props.alt} />
     </div>
   );
 };
