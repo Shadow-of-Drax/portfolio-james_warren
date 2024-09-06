@@ -3,10 +3,9 @@ import NavBar from "./components/NavBar/NavBar.js";
 import Landing from "./components/Landing/Landing.js";
 import Jumbotron from "./components/Jumbotron/Jumbotron.js";
 import ProjectCardContainer from "./components/ProjectCardContainer/ProjectCardContainer.js";
-import picture from "./components/Picture/Picture.js";
 import Skills from "./components/Skills/Skills.js";
 import Footer from "./components/Footer/Footer.js";
-
+import Picture from "./components/media/James.jpg";
 import Background from "./components/media/background-1.jpg";
 
 class App extends Component {
@@ -14,7 +13,7 @@ class App extends Component {
     return (
       <>
         <NavBar />
-        <picture />
+        <Picture />
         <Landing
           title="James Warren"
           content="Full Stack Developer"
