@@ -1,14 +1,17 @@
-import React from 'react';
-import './Skills.css';
+import React from "react";
+import "./Skills.css";
 
 const skills = (props) => {
   return (
-    <section className = 'skills'>
-      <div className = 'inner'>
+    <section className="skills">
+      <div className="inner">
         <h2>Skills</h2>
       </div>
-      <div className = 'container'>
-        <div className = 'skillCard' style={{backgroundColor: "rgba(0, 0, 0, 0.07)"}}>
+      <div className="container">
+        <div
+          className="skillCard"
+          style={{ backgroundColor: "rgba(0, 0, 0, 0.07)" }}
+        >
           <h4>Web Development</h4>
           <ul>
             <li>HTML5</li>
@@ -24,7 +27,10 @@ const skills = (props) => {
             <li>Git/GitHub</li>
           </ul>
         </div>
-        <div className = 'skillCard' style={{backgroundColor: "rgba(0, 0, 0, 0.14)"}}>
+        <div
+          className="skillCard"
+          style={{ backgroundColor: "rgba(0, 0, 0, 0.14)" }}
+        >
           <h4>Workspace Skills</h4>
           <ul>
             <li>Fluent in English</li>
@@ -45,6 +51,6 @@ const skills = (props) => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 export default skills;
