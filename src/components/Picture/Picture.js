@@ -1,12 +1,13 @@
 import React from "react";
-import "./Picture.css";
+import myphoto from "../components/media/James.jpg"; // Import the image
 
-const picture = (props) => {
+const Picture = () => {
   return (
-    <div className="Picture">
-      <img src={props.image} alt="James" />
+    <div className="picture">
+      <h1>My Profile</h1>
+      <img src={myphoto} alt="My Profile" className="profile-picture" />
     </div>
   );
 };
 
-export default picture;
+export default Picture;
