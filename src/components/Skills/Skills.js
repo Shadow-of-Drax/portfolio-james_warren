@@ -25,6 +25,8 @@ const skills = (props) => {
             <li>SQL</li>
             <li>MongoDB</li>
             <li>Git/GitHub</li>
+            <li>Heroku</li>
+            <li>PostgreSQL</li>
           </ul>
         </div>
         <div
