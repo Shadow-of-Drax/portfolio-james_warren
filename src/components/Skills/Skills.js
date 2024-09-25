@@ -40,12 +40,12 @@ const skills = (props) => {
             <li>Problem Solver</li>
             <li>Team Player</li>
             <li>Time Management</li>
-            <li>Adaptability</li>
+            <li>Adaptable</li>
             <li>Organization</li>
             <li>Attention to Detail</li>
             <li>Leadership</li>
             <li>Self-Motivated</li>
-            <li>Accountability</li>
+            <li>Accountable</li>
             <li>Quick Learner</li>
           </ul>
         </div>
