@@ -35,7 +35,7 @@ const ProjectCardContainer = (props) => {
         projectImage={Ninja}
         title="Back in the SaturDAY"
         techUsed="React.js, HTML/CSS, JavaScript, Axios, React Router, Node.js, Express.js, MongoDB, CORS"
-        description="Streaming service framework showcasing Saturday morning cartoons. This is a work in progress and will be updated as I make progress. Utilizing React.js, HTML, CSS, and JavaScript."
+        description="Streaming service framework showcasing Saturday morning cartoons. This is a work in progress and will be updated as I make progress."
         githubLink="https://github.com/Shadow-of-Drax/Portfolio/tree/main/Back-in-the-SaturDAY"
         gitHubIcon={GitHubIcon}
         bga="bg5"
