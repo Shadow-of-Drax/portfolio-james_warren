@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-james_warren/static/css/main.1795cf99.css",
-    "main.js": "/portfolio-james_warren/static/js/main.93eafd74.js",
+    "main.js": "/portfolio-james_warren/static/js/main.a00816c2.js",
     "static/media/background-1.jpg": "/portfolio-james_warren/static/media/background-1.a89a311f78187734232b.jpg",
     "static/media/Cannon.jpeg": "/portfolio-james_warren/static/media/Cannon.36a634a4816f8d13de00.jpeg",
     "static/media/email.png": "/portfolio-james_warren/static/media/email.b64e7ed904448883d118.png",
@@ -10,10 +10,10 @@
     "static/media/Battleshippreview.png": "/portfolio-james_warren/static/media/Battleshippreview.158e8c002e2807ae3030.png",
     "index.html": "/portfolio-james_warren/index.html",
     "main.1795cf99.css.map": "/portfolio-james_warren/static/css/main.1795cf99.css.map",
-    "main.93eafd74.js.map": "/portfolio-james_warren/static/js/main.93eafd74.js.map"
+    "main.a00816c2.js.map": "/portfolio-james_warren/static/js/main.a00816c2.js.map"
   },
   "entrypoints": [
     "static/css/main.1795cf99.css",
-    "static/js/main.93eafd74.js"
+    "static/js/main.a00816c2.js"
   ]
 }
