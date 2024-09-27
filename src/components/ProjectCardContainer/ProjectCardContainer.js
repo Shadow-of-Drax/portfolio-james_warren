@@ -34,9 +34,9 @@ const ProjectCardContainer = (props) => {
         projectLink="https://github.com/Shadow-of-Drax/Portfolio/tree/main/mini-netflix"
         projectImage={Ninja}
         title="Back in the SaturDAY"
-        techUsed="React.js, HTML, CSS, JavaScript"
+        techUsed="React.js, HTML/CSS, JavaScript, Axios, React Router, Node.js, Express.js, MongoDB, CORS"
         description="Streaming service framework showcasing Saturday morning cartoons. This is a work in progress and will be updated as I make progress. Utilizing React.js, HTML, CSS, and JavaScript."
-        githubLink="https://github.com/Shadow-of-Drax/Portfolio/tree/main/mini-netflix"
+        githubLink="https://github.com/Shadow-of-Drax/Portfolio/tree/main/Back-in-the-SaturDAY"
         gitHubIcon={GitHubIcon}
         bga="bg5"
       />
